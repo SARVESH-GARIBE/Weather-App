@@ -11,13 +11,13 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 
 > Below are a few demo images of the project interface:
 ### 🌤️ Home Page
-![Weather App - Demo 1](./Assests/screenshot1.png) 
+![Weather App - Demo 1](Assests/screenshot1.png) 
 
 ### 🔍 Weather App - Demo 2(City Search Example)
-![Weather App - Demo 2](./Assests/screenshot2.png)
+![Weather App - Demo 2](Assests/screenshot2.png)
 
 ### 🔍 Weather App - Demo 3
-![Weather App - Demo 1](./Assests/screenshot3.png)  
+![Weather App - Demo 1](Assests/screenshot3.png)  
 
 ---
 
